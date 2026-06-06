@@ -28,6 +28,10 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NaufalMyn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+##
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn&"  />
+</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
