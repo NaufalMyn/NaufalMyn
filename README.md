@@ -2,7 +2,7 @@
 # 💻 Tech Stack:
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab,notion" />
 
 <br><br>
 
