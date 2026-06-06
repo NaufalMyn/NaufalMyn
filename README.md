@@ -40,4 +40,5 @@
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/NaufalMyn/NaufalMyn/pacman-output/galaga-contribution-graph.svg">
 </picture>
 
+<img src="https://raw.githubusercontent.com/NaufalMyn/NaufalMyn/snake-output/snake.svg" alt="Snake animation" />
 
