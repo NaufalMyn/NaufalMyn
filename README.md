@@ -71,8 +71,8 @@
 
 ## 🚀 Featured Projects
 
-- **[NaufalMyn](https://github.com/NaufalMyn/NaufalMyn)** — YOUR_PROJECT_1_DESC
-- **[Novanoeee](https://github.com/NaufalMyn/Novanoeee)** — YOUR_PROJECT_2_DESC
+- **[YOUR_PROJECT_1](YOUR_PROJECT_1_DEMO)** — YOUR_PROJECT_1_DESC
+- **[YOUR_PROJECT_2](YOUR_PROJECT_2_DEMO)** — YOUR_PROJECT_2_DESC
 
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
