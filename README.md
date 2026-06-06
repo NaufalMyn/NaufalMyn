@@ -19,7 +19,7 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,gmail" />
-##visitor
+##
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn&"  />
 </div>
