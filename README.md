@@ -19,6 +19,10 @@
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,gmail" />
+##visitor
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn&"  />
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=NaufalMyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -28,10 +32,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=NaufalMyn&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-##
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn&"  />
-</div>
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
