@@ -16,7 +16,7 @@
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch" />
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,x,discord,instagram,gmail" />
+  <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,gmail" />
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=NaufalMyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
