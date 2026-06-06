@@ -17,9 +17,9 @@
 
 </div>
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=NaufalMyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![][(https://github-readme-stats.shion.dev/api?username=NaufalMyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false)](https://github-readme-stats.vercel.app/api?username=NaufalMyn&show_icons=true&theme=dark)<br/>
 ![](https://streak-stats.demolab.com/?user=NaufalMyn&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NaufalMyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![](https://github-readme-stats.shion.dev/api/top-langs/?username=NaufalMyn&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)](https://github-readme-stats.vercel.app/api/top-langs/?username=NaufalMyn&layout=compact&theme=dark)
 
 
 ## 🏆 GitHub Trophies
@@ -31,7 +31,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NaufalMyn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://komarev.com/ghpvc/?username=NaufalMyn&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
