@@ -1,7 +1,4 @@
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/naufal-abiyyu-musyaffa) 
-
 # 💻 Tech Stack:
 <div align="center">
 
@@ -15,10 +12,8 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch" />
 
-<br><br>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,gmail" />
+
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn&"  />
