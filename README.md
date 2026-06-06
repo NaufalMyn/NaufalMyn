@@ -7,9 +7,11 @@
 
 <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab" />
 
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,jenkins,mongodb,mysql,postgresql" />
 
+<br><br>
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch" />
 
