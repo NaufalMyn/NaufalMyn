@@ -15,7 +15,7 @@
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch" />
 
-<br>
+<br><br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=linkedin,discord,instagram,gmail" />
