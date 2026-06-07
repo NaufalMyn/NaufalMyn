@@ -37,7 +37,9 @@
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender,premierepro,capcut" />
 </p>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=capcut" />
+</p>
 </div>
 
 
