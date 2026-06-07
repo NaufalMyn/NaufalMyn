@@ -1,28 +1,44 @@
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
+
 <div align="center">
 
- <p>
+### Programming Languages
+<p>
   <img src="https://skillicons.dev/icons?i=python,cs,c,cpp" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=github,gitlab,notion," />
+### Tools & Version Control
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion" />
+</p>
 
-<br><br>
+### AI / ML & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
 </p>
-<img src="https://skillicons.dev/icons?i=gtk,raspberrypi" />
-<p>
-  <img src="https://skillicons.dev/icons?i=linux,bash,kali" />
-</p>
-<br><br>
 
+### Systems & Embedded
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,gcp,vercel,selenium" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali,raspberrypi,gtk" />
 </p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
 
+### Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,gcp,githubactions,vercel" />
+</p>
+
+### Automation & Testing
+<p>
+  <img src="https://skillicons.dev/icons?i=selenium" />
+</p>
+
+### IDE & Creative Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
+</p>
+
+</div>
 
 
 
