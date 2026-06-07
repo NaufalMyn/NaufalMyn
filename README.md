@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="./assets/mybinitidakbosan.jfif" width="500"/>
+  <img src="./assets/mybinitidakbosan.jfif" width="400"/>
 </p>
 
 
