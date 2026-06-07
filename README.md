@@ -8,8 +8,8 @@
 
 </div>
 ---
-## 🔥 Meme Section
 
+---
 <p align="center">
   <img src="./assets/mybinitidakbosan.jfif" width="280"/>
 </p>
