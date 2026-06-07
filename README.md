@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="./assets/mybinitidakbosan.jfif" width="380"/>
+  <img src="./assets/mybinitidakbosan.jfif" width="360"/>
 </p>
 
 
@@ -32,8 +32,7 @@
   </p>
 
 </details>
----
----
+
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn" />
 </div>
