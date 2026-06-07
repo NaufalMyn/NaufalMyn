@@ -7,7 +7,33 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW03ajhmODJsaWN6cDIxaTU0MmNkbmp0djBocnFxZm04c3Z0azZ1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" height="400x400"/>
 
 </div>
+---
+## 🔥 Meme Section
 
+<p align="center">
+  <img src="./assets/mybinitidakbosan.jfif" width="280"/>
+</p>
+
+<p align="center">
+  💬 "Jarvis tolong tambahkan ke daftar my bini"
+</p>
+
+---
+
+<details>
+  <summary>📂 Buka koleksi meme lainnya</summary>
+
+  <br/>
+
+  <p align="center">
+    <img src="./assets/meme2.jpg" width="140"/>
+    <img src="./assets/meme3.jpg" width="140"/>
+    <img src="./assets/meme4.jpg" width="140"/>
+    <img src="./assets/meme5.jpg" width="140"/>
+  </p>
+
+</details>
+---
 ---
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn" />
