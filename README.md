@@ -9,27 +9,30 @@
 </div>
 
 
----
-<p align="center">
-  <img src="./assets/mybinitidakbosan.jfif" width="280"/>
-</p>
 
 <p align="center">
-  💬 "Jarvis tolong tambahkan ke daftar my bini"
+  <img src="./assets/mybinitidakbosan.jfif" width="500"/>
 </p>
+
 
 ---
 
 <details>
-  <summary>📂 Buka koleksi meme lainnya</summary>
+  <summary></summary>
 
   <br/>
 
   <p align="center">
-    <img src="./assets/meme2.jpg" width="140"/>
-    <img src="./assets/meme3.jpg" width="140"/>
-    <img src="./assets/meme4.jpg" width="140"/>
-    <img src="./assets/meme5.jpg" width="140"/>
+    <img src="./assets/mybini1.jfif" width="140"/>
+    <img src="./assets/mybini2.jfif" width="140"/>
+    <img src="./assets/mybini3.jfif" width="140"/>
+    <img src="./assets/mybini4.jfif" width="140"/>
+    <img src="./assets/mybini5.jfif" width="140"/>
+    <img src="./assets/mybini6.png" width="140"/>
+    <img src="./assets/mybini7.jfif" width="140"/>
+    <img src="./assets/mybini8.jfif" width="140"/>
+    <img src="./assets/mybini9.jfif" width="140"/>
+   
   </p>
 
 </details>
