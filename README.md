@@ -20,7 +20,7 @@
 # 💻 Tech Stack
 
 <details>
-  <summary>🚀 Programming Languages</summary>
+  <summary><b>🚀 Programming Languages</b></summary>
 
 ### Languages
 <img src="https://skillicons.dev/icons?i=python,cs,c,cpp,javascript,typescript" />
@@ -28,7 +28,7 @@
 </details>
 
 <details>
-  <summary>🛠 Tools & Version Control</summary>
+  <summary><b>🛠 Tools & Version Control</b></summary>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode" />
