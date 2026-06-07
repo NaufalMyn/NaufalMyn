@@ -101,7 +101,7 @@
 
 <div align="center">
 
-<img src="https://github-contributor-stats.vercel.app/api?username=NaufalMyn&limit=5&theme=dark" />
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalMyn)
 
 </div>
 
