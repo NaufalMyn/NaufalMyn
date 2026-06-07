@@ -25,11 +25,9 @@
     <img src="./assets/mybini1.jfif" width="200"/>
     <img src="./assets/mybini2.jfif" width="200"/>
     <img src="./assets/mybini3.jfif" width="200"/>
-    <img src="./assets/mybini4.jfif" width="200"/>
     <img src="./assets/mybini5.jfif" width="200"/>
     <img src="./assets/mybini6.jfif" width="200"/>
     <img src="./assets/mybini7.jfif" width="200"/>
-    <img src="./assets/mybini8.png" width="200"/>
     <img src="./assets/mybini9.jfif" width="200"/>
    
   </p>
