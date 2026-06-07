@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=NaufalMyn&theme=radical&margin-w=4" />
+[<img src="https://github-profile-trophy.vercel.app/?username=NaufalMyn&theme=radical&margin-w=4" />](https://github-readme-stats.vercel.app/api?username=NaufalMyn&show_icons=true&theme=dark)
 
 </div>
 
