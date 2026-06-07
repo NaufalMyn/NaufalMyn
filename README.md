@@ -36,7 +36,7 @@
 </details>
 
 <details>
-  <summary>🤖 AI / ML & Data Science</summary>
+  <summary><b>🤖 AI / ML & Data Science</b></summary>
 
 ### AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
@@ -44,7 +44,7 @@
 </details>
 
 <details>
-  <summary>🧠 Systems & Cyber Security</summary>
+  <summary><b>🧠 Systems & Cyber Security</b></summary>
 
 ### Systems
 <img src="https://skillicons.dev/icons?i=linux,bash,kali,raspberrypi,docker" />
@@ -60,7 +60,7 @@
 </details>
 
 <details>
-  <summary>🧪 Automation & Testing</summary>
+  <summary><b>🧪 Automation & Testing</b></summary>
 
 ### Testing
 <img src="https://skillicons.dev/icons?i=selenium" />
@@ -68,7 +68,7 @@
 </details>
 
 <details>
-  <summary>🎨 IDE & Creative Tools</summary>
+  <summary><b>🎨 IDE & Creative Tools</b></summary>
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
