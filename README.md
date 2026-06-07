@@ -101,7 +101,7 @@
 <div align="center">
 
 ![stats](https://github-readme-stats.vercel.app/api?username=NaufalMyn&show_icons=true)
-
+![streak](https://streak-stats.demolab.com/?user=NaufalMyn)
 </div>
 
 ---
