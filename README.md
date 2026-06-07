@@ -144,6 +144,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&theme=cobalt" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&text=Thanks%20for%20Visiting!&fontSize=30&fontColor=ffffff&theme=white" />
 
 </div>
