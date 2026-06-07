@@ -10,7 +10,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch, selenium" />
 
 
 
