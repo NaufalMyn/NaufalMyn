@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="./assets/mybinitidakbosan.jfif" width="370"/>
+  <img src="./assets/mybinitidakbosan.jfif" width="375"/>
 </p>
 
 
@@ -28,6 +28,8 @@
     <img src="./assets/mybini6.jfif" width="200"/>
     <img src="./assets/mybini7.jfif" width="200"/>
     <img src="./assets/mybini9.jfif" width="200"/>
+    <img src="./assets/mybini.jfif" width="200"/>
+    <img src="./assets/mymine.jfif" width="200"/>
    
   </p>
 
