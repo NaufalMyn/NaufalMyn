@@ -52,7 +52,7 @@
 </details>
 
 <details>
-  <summary>☁️ Cloud & DevOps</summary>
+  <summary><b>☁️ Cloud & DevOps</b></summary>
 
 ### Cloud
 <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,vercel" />
