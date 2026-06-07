@@ -11,7 +11,7 @@
 
 
 <p align="center">
-  <img src="./assets/mybinitidakbosan.jfif" width="400x400"/>
+  <img src="./assets/mybinitidakbosan.jfif" width="380"/>
 </p>
 
 
@@ -25,7 +25,6 @@
     <img src="./assets/mybini1.jfif" width="200"/>
     <img src="./assets/mybini2.jfif" width="200"/>
     <img src="./assets/mybini3.jfif" width="200"/>
-    <img src="./assets/mybini5.jfif" width="200"/>
     <img src="./assets/mybini6.jfif" width="200"/>
     <img src="./assets/mybini7.jfif" width="200"/>
     <img src="./assets/mybini9.jfif" width="200"/>
