@@ -6,13 +6,13 @@
   <img src="https://skillicons.dev/icons?i=python,cs,c,cpp" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,gitlab,notion," />
+<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,notion," />
 
 <br><br>
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
 </p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,matlab,raspberrypi,sklearn" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,matlab,raspberrypi,sklearn" />
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,kali" />
 </p>
