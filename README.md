@@ -100,7 +100,7 @@
 
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=NaufalMyn&theme=radical&no-frame=true&margin-w=10)
+![trophy](https://github-profile-trophy.vercel.app/?username=NaufalMyn)
 
 </div>
 
