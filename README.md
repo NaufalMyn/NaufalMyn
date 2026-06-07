@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Naufal Myn
+# 👋 Hi, I'm Naufal
 
 ### 💻 Cyber Security • AI/ML Engineer • Developer • Content Creator
 
@@ -101,7 +101,7 @@
 
 <div align="center">
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalMyn)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalMyn&theme=dark)
 
 </div>
 
