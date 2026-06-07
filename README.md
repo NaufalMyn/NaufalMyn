@@ -100,7 +100,7 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NaufalMyn&show_icons=true&theme=dark" />
+![trophy](https://github-profile-trophy.vercel.app/?username=NaufalMyn&theme=radical&no-frame=true&margin-w=10)
 
 </div>
 
