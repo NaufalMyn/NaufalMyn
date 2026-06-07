@@ -2,7 +2,9 @@
 # 💻 Tech Stack:
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp" />
+ <p>
+  <img src="https://skillicons.dev/icons?i=python,c#,c,cpp" />
+</p>
 
 <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab,notion," />
 
