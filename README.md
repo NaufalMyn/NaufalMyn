@@ -9,7 +9,9 @@
 <img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab,notion," />
 
 <br><br>
-
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
+</p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,matlab,raspberrypi,sklearn" />
 
 <br><br>
