@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,matlab,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,matlab,raspberrypi,sklearn" />
 
 <br><br>
 
