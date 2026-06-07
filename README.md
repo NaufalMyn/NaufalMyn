@@ -17,9 +17,20 @@
 
 ---
 
+<div align="center">
+
 # 💻 Tech Stack
 
+</div>
+
+---
+
 <div align="center">
+
+<details>
+  <summary>👇 Show / Hide Tech Stack</summary>
+
+<br>
 
 ### 🚀 Programming Languages
 <img src="https://skillicons.dev/icons?i=python,cs,c,cpp,javascript,typescript" />
@@ -41,6 +52,8 @@
 
 ### 🎨 IDE & Creative Tools
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
+
+</details>
 
 </div>
 
