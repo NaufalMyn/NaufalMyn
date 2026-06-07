@@ -6,20 +6,20 @@
   <img src="https://skillicons.dev/icons?i=python,cs,c,cpp" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=docker,git,github,gitlab,notion," />
+<img src="https://skillicons.dev/icons?i=github,gitlab,notion," />
 
 <br><br>
 <p>
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
 </p>
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,raspberrypi" />
+<img src="https://skillicons.dev/icons?i=gtk,raspberrypi" />
 <p>
   <img src="https://skillicons.dev/icons?i=linux,bash,kali" />
 </p>
 <br><br>
-### ☁️ Cloud & DevOps
+
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,gcp,vercel" />
 </p>
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch,selenium" />
 
