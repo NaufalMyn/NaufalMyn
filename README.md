@@ -101,7 +101,7 @@
 
 <div align="center">
 
-![summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalMyn&theme=dark)
+![summary](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NaufalMyn&theme=dark&layout=compact)
 
 </div>
 
