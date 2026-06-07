@@ -35,7 +35,9 @@
 
 ### IDE & Creative Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,premierepro,blender" />
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
+  <img src="https://cdn.simpleicons.org/adobepremierepro/999999" height="40"/>
+  <img src="https://cdn.simpleicons.org/capcut/999999" height="40"/>
 </p>
 
 </div>
