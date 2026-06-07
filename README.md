@@ -27,36 +27,67 @@
 
 <div align="center">
 
+<div align="center">
+
+# 💻 Tech Stack
+
 <details>
-  <summary>👇 Show / Hide Tech Stack</summary>
+  <summary>🚀 Programming Languages</summary>
 
-<br>
-
-### 🚀 Programming Languages
+### Languages
 <img src="https://skillicons.dev/icons?i=python,cs,c,cpp,javascript,typescript" />
 
-### 🛠 Tools & Version Control
+</details>
+
+<details>
+  <summary>🛠 Tools & Version Control</summary>
+
+### Tools
 <img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode" />
 
-### 🤖 AI / ML & Data Science
+</details>
+
+<details>
+  <summary>🤖 AI / ML & Data Science</summary>
+
+### AI / ML
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
 
-### 🧠 Systems & Cyber Security
+</details>
+
+<details>
+  <summary>🧠 Systems & Cyber Security</summary>
+
+### Systems
 <img src="https://skillicons.dev/icons?i=linux,bash,kali,raspberrypi,docker" />
 
-### ☁️ Cloud & DevOps
+</details>
+
+<details>
+  <summary>☁️ Cloud & DevOps</summary>
+
+### Cloud
 <img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,vercel" />
 
-### 🧪 Automation & Testing
+</details>
+
+<details>
+  <summary>🧪 Automation & Testing</summary>
+
+### Testing
 <img src="https://skillicons.dev/icons?i=selenium" />
 
-### 🎨 IDE & Creative Tools
+</details>
+
+<details>
+  <summary>🎨 IDE & Creative Tools</summary>
+
+### Tools
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
 
 </details>
 
 </div>
-
 ---
 
 # 📊 GitHub Analytics
