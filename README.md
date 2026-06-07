@@ -19,9 +19,9 @@
 <br><br>
 
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,gcp,vercel" />
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions,git,gcp,vercel,selenium" />
 </p>
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch,selenium" />
+<img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
 
 
 
