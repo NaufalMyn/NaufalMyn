@@ -106,15 +106,6 @@
 
 ---
 
-# ✍️ Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
-
-</div>
-
----
 
 # 🔝 Top Contributed Repos
 
