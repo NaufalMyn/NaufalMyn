@@ -7,30 +7,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW03ajhmODJsaWN6cDIxaTU0MmNkbmp0djBocnFxZm04c3Z0azZ1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" height="400x400"/>
 
 </div>
----
-<h2 align="center">🔥 Meme Section</h2>
 
-<p align="center">
-  <img src="[https://i.pinimg.com/originals/xxxx.jpg](https://i.pinimg.com/736x/05/b1/d3/05b1d3aa378e42a1357800edd201ee23.jpg)" width="280"/>
-</p>
-
-
----
-
-<details>
-  <summary>📂</summary>
-
-  <br/>
-
-  <p align="center">
-    <img src="https://i.pinimg.com/originals/xxxx1.jpg" width="140"/>
-    <img src="https://i.pinimg.com/originals/xxxx2.jpg" width="140"/>
-    <img src="https://i.pinimg.com/originals/xxxx3.jpg" width="140"/>
-    <img src="https://i.pinimg.com/originals/xxxx4.jpg" width="140"/>
-  </p>
-
-</details>
----
 ---
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=NaufalMyn.NaufalMyn" />
