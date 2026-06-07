@@ -17,7 +17,10 @@
   <img src="https://skillicons.dev/icons?i=linux,bash,kali" />
 </p>
 <br><br>
-
+### ☁️ Cloud & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,aws,githubactions" />
+</p>
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch,selenium" />
 
 
