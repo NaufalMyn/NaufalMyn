@@ -6,7 +6,7 @@
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,kubernetes,terraform,jenkins,mongodb,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,,mysql,postgresql" />
 
 <br><br>
 
