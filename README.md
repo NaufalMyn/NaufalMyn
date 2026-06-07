@@ -13,7 +13,9 @@
   <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
 </p>
 <img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,matlab,raspberrypi,sklearn" />
-
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,kali" />
+</p>
 <br><br>
 
 <img src="https://skillicons.dev/icons?i=vscode,pycharm,nodejs,tensorflow,pytorch,selenium" />
