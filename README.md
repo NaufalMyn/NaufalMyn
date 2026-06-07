@@ -36,8 +36,11 @@
 ### IDE & Creative Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
-  <img src="https://cdn.simpleicons.org/adobepremierepro/999999" height="40"/>
-  <img src="https://cdn.simpleicons.org/capcut/999999" height="40"/>
+  ### Video Editing Tools
+
+![Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF?style=for-the-badge&logo=adobe-premiere-pro&logoColor=white)
+
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge)
 </p>
 
 </div>
