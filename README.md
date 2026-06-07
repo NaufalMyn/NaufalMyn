@@ -7,9 +7,9 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW03ajhmODJsaWN6cDIxaTU0MmNkbmp0djBocnFxZm04c3Z0azZ1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" height="400x400"/>
 
 </div>
----
 
 
+--
 <p align="center">
   <img src="./assets/mybinitidakbosan.jfif" width="280"/>
 </p>
