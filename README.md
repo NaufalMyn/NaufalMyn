@@ -6,7 +6,7 @@
   <img src="https://skillicons.dev/icons?i=python,cs,c,cpp" />
 </p>
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab,notion," />
+<img src="https://skillicons.dev/icons?i=bash,linux,docker,git,github,gitlab,notion," />
 
 <br><br>
 <p>
