@@ -2,11 +2,11 @@
 # 💻 Tech Stack:
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab,notion" />
+<img src="https://skillicons.dev/icons?i=python,bash,c,cpp,cs,linux,docker,git,github,gitlab,notion," />
 
 <br><br>
 
-<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,,mysql,postgresql" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,vercel,gtk,kali,matlab,raspberrypi" />
 
 <br><br>
 
