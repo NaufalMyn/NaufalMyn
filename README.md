@@ -1,4 +1,4 @@
-<div align="central">
+<div align="center">
 
 # 👋 Hi, I'm Naufal
 
