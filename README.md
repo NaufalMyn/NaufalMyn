@@ -44,10 +44,10 @@
 </tr>
 
 <tr>
-
+<br>
 <td><img src="./assets/mybini16.jfif" height="240" ></td>
 <td><img src="./assets/mybini17.jfif" height="240" ></td>
-
+<br>
 </tr>
 
 </table>
