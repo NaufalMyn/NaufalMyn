@@ -32,8 +32,8 @@
     <img src="./assets/mymine.jfif" width="200"/>
     <img src="./assets/mybini10.jfif" width="200"/>
     <img src="./assets/mybini11.jfif" width="200"/>
-    <img src="./assets/mybini14.jfif" width="180" />
-    <img src="./assets/mybini13.jfif" width="180" />
+    <img src="./assets/mybini14.jfif" width="186" />
+    <img src="./assets/mybini13.jfif" width="186" />
       
     
    
