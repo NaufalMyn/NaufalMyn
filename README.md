@@ -21,20 +21,28 @@
 
   <br/>
 
-  <p align="center">
-    <img src="./assets/mybini1.jfif" width="200"/>
-    <img src="./assets/mybini2.jfif" width="200"/>
-    <img src="./assets/mybini3.jfif" width="200"/>
-    <img src="./assets/mybini6.jfif" width="200"/>
-    <img src="./assets/mybini7.jfif" width="200"/>
-    <img src="./assets/mybini9.jfif" width="200"/>
-    <img src="./assets/mybini.jfif" width="200"/>
-    <img src="./assets/mymine.jfif" width="200"/>
-    <img src="./assets/mybini10.jfif" width="200"/>
-    <img src="./assets/mybini11.jfif" width="200"/>
-    <img src="./assets/mybini14.jfif" width="180" />
-    <img src="./assets/mybini13.jfif" width="180" />
-      
+ <table align="center">
+<tr>
+<td><img src="./assets/mybini1.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini2.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini3.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini6.jfif" width="180" height="240"></td>
+</tr>
+
+<tr>
+<td><img src="./assets/mybini7.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini9.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini.jfif" width="180" height="240"></td>
+<td><img src="./assets/mymine.jfif" width="180" height="240"></td>
+</tr>
+
+<tr>
+<td><img src="./assets/mybini10.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini11.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini14.jfif" width="180" height="240"></td>
+<td><img src="./assets/mybini13.jfif" width="180" height="240"></td>
+</tr>
+</table>
     
    
   </p>
