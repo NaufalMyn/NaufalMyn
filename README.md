@@ -31,14 +31,7 @@
     <img src="./assets/mybini.jfif" width="200"/>
     <img src="./assets/mymine.jfif" width="200"/>
     <img src="./assets/mybini10.jfif" width="200"/>
-    <img src="./assets/mybini12.jfif" width="200"/>
-    <img src="./assets/mybini13.jfif" width="200"/>
-    <img src="./assets/mybini16.jfif" width="200"/>
-    <img src="./assets/mybini17.jfif" width="200"/>
-    <img src="./assets/mybini8.jfif" width="200"/>
-    <img src="./assets/mybini11.jfif" width="200"/>
-    <img src="./assets/mymine14.jfif" width="200"/>
-    <img src="./assets/mymine15.jfif" width="200"/>
+    
    
   </p>
 
