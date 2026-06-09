@@ -32,7 +32,9 @@
     <img src="./assets/mymine.jfif" width="200"/>
     <img src="./assets/mybini10.jfif" width="200"/>
     <img src="./assets/mybini11.jfif" width="200"/>
-      <img src="./assets/mybini12.jfif" width="220" />
+    <img src="./assets/mybini12.jfif" width="225" />
+    <img src="./assets/mybini13.jfif" width="225" />
+      
     
    
   </p>
