@@ -45,8 +45,8 @@
 
 <tr>
 <td><img src="./assets/mybini15.jfif" width="200"></td>
-<td><img src="./assets/mybini16.jfif" width="180" height="240"></td>
-<td><img src="./assets/mybini17.jfif" width="186" height="230"></td>
+<td><img src="./assets/mybini16.jfif" width="200" ></td>
+<td><img src="./assets/mybini17.jfif" width="200" ></td>
 </tr>
 
 </table>
