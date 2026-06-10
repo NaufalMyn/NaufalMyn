@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Naufal
 
-### 💻 Cyber Security • AI/ML Engineer • Developer • Content Creator
+### 💻 TECH ENTHUSIAST
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW03ajhmODJsaWN6cDIxaTU0MmNkbmp0djBocnFxZm04c3Z0azZ1diZlcD12MV9naWZzX3NlYXJjaCZjdD1n/4ilFRqgbzbx4c/giphy.gif" height="400x400"/>
 
@@ -71,7 +71,7 @@
   <summary><b>🚀 Programming Languages</b></summary>
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cs,c,cpp,javascript,typescript" />
+<img src="https://skillicons.dev/icons?i=python,cs,c,cpp" />
 
 </details>
 
@@ -119,7 +119,7 @@
   <summary><b>🎨 IDE & Creative Tools</b></summary>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=vscode,pycharm,ae,blender" />
+<img src="https://skillicons.dev/icons?i=pycharm,ae,blender" />
 
 </details>
 
