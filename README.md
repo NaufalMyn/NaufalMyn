@@ -87,7 +87,7 @@
   <summary><b>🤖 AI / ML & Data Science</b></summary>
 
 ### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab,kafka" />
 
 </details>
 
@@ -119,7 +119,7 @@
   <summary><b>🎨 IDE & Creative Tools</b></summary>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=pycharm,ae,blender,godot" />
+<img src="https://skillicons.dev/icons?i=pycharm,ae,blender,godot,kubernetes,md" />
 
 </details>
 
