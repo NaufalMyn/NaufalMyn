@@ -119,8 +119,8 @@
   <summary><b>🎨 IDE & Creative Tools</b></summary>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=pycharm,ae,blender,godot,kubernetes,unreal,unity,robloxstudio" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" />
+<img src="https://skillicons.dev/icons?i=pycharm,ae,blender,godot,kubernetes,unreal,unity,robloxstudio,burpsuite" />
+
 
 </details>
 
