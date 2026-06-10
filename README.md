@@ -95,7 +95,7 @@
   <summary><b>🧠 Systems & Cyber Security</b></summary>
 
 ### Systems
-<img src="https://skillicons.dev/icons?i=linux,bash,kali,raspberrypi,docker" />
+<img src="https://skillicons.dev/icons?i=linux,bash,kali,raspberrypi,redhat" />
 
 </details>
 
@@ -103,7 +103,7 @@
   <summary><b>☁️ Cloud & DevOps</b></summary>
 
 ### Cloud
-<img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,vercel" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,vercel,docker" />
 
 </details>
 
