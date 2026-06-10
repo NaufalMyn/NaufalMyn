@@ -119,7 +119,7 @@
   <summary><b>🎨 IDE & Creative Tools</b></summary>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=pycharm,ae,blender,godot,kubernetes,md" />
+<img src="https://skillicons.dev/icons?i=pycharm,ae,blender,godot,kubernetes,unreal,unity,robloxstudio" />
 
 </details>
 
