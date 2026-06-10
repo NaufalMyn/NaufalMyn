@@ -103,7 +103,7 @@
   <summary><b>☁️ Cloud & DevOps</b></summary>
 
 ### Cloud
-<img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,vercel,docker" />
+<img src="https://skillicons.dev/icons?i=aws,gcp,githubactions,vercel,docker,wordpress" />
 
 </details>
 
