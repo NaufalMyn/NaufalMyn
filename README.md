@@ -79,7 +79,7 @@
   <summary><b>🛠 Tools & Version Control</b></summary>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode,obsidian" />
 
 </details>
 
@@ -87,7 +87,7 @@
   <summary><b>🤖 AI / ML & Data Science</b></summary>
 
 ### AI / ML
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab,kafka" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,matlab,replit" />
 
 </details>
 
