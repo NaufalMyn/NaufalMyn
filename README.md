@@ -79,7 +79,7 @@
   <summary><b>🛠 Tools & Version Control</b></summary>
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode,obsidian" />
+<img src="https://skillicons.dev/icons?i=git,github,gitlab,notion,vscode," />
 
 </details>
 
