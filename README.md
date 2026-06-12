@@ -11,9 +11,6 @@
 
 ***
 
-<p align="center">
-  <img src="./assets/mybinitidakbosan.jfif" width="375"/>
-</p>
 
 
 
