@@ -19,12 +19,7 @@
   <br/>
 
  
-</tr>
 
-<tr>
-<td><img src="./assets/mybini7.jfif" width="180" height="240"></td>
-<td><img src="./assets/mybini9.jfif" width="180" height="240"></td>
-<td><img src="./assets/mybini.jfif" width="180" height="240"></td>
 <td><img src="./assets/mymine.jfif" width="180" height="240"></td>
 </tr>
 
