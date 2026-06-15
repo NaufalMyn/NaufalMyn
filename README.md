@@ -50,7 +50,7 @@
 
 
     
-   
+  </details>
 
 
 </details>
