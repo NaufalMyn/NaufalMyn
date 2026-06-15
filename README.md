@@ -25,14 +25,6 @@ td>
 </tr>
 
 <tr>
-<td></td>
-<td><img src="./assets/mybini16.jfif" height="240" ></td>
-<td><img src="./assets/mybini17.jfif" height="240" ></td>
-<td></td>
-</tr>
-
-
-    
   </details>
 
 
