@@ -18,12 +18,7 @@
 
   <br/>
 
- <table align="center">
-<tr>
-<td><img src="./assets/mybini1.jfif" width="180" height="240"></td>
-<td><img src="./assets/mybini2.jfif" width="180" height="240"></td>
-<td><img src="./assets/mybini3.jfif" width="180" height="240"></td>
-<td><img src="./assets/mybini6.jfif" width="180" height="240"></td>
+ 
 </tr>
 
 <tr>
