@@ -18,13 +18,6 @@
 
   <br/>
 
- 
-
-td>
-<td><img src="./assets/mybini13.jfif" width="186" height="230"></td>
-</tr>
-
-<tr>
   </details>
 
 
