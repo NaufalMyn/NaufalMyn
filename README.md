@@ -14,8 +14,7 @@
 
 
 
-<details>
-  <summary></summary>
+
 
   <br/>
 
