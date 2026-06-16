@@ -25,7 +25,7 @@
   <summary><b>🚀 Programming Languages</b></summary>
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=python,cs,c,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cs,c,cpp,js,r" />
 
 </details>
 
